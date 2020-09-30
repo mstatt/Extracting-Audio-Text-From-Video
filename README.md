@@ -8,7 +8,7 @@
  >pip install moviepy
  
  ##Place video in same directory as script
- ><your-video>.mp4
+ >your-video.mp4
  
  
  ##Running the script:
