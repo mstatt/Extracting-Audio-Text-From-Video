@@ -1,5 +1,5 @@
 # Extracting-Audio-Text-From-Video
- Simple python example on extracting audio and speech text from a video file.
+ Simple example of "Extracting audio and speech text from a video". Using Python with moviepy  and the Google Speech recognizer to process this ends pretty fast.
  
  #Steps:
  ##Install Libraries
