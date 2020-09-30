@@ -3,12 +3,12 @@
  
  #Steps:
  ##Install Libraries
- pip install SpeechRecognition
- pip install moviepy
+ >pip install SpeechRecognition
+ >pip install moviepy
  
  ##Place video in same directory as script
- <your-video>.mp4
+ ><your-video>.mp4
  
  
  ##Running the script:
- >>python extract_speech_from_video.py
+ >python extract_speech_from_video.py
